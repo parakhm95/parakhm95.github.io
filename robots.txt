@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://parakhmgupta.com/al-folio/sitemap.xml
+Sitemap: https://parakhmgupta.com/sitemap.xml
