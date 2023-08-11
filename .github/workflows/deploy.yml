@@ -3,11 +3,11 @@ name: deploy
 on:
   push:
     branches:
-      - master
+      - development
       - main
   pull_request:
     branches:
-      - master
+      - development
       - main
   workflow_dispatch:
 
