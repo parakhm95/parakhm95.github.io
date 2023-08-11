@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: When is serious too serious.
 
 profile:
   align: right
@@ -15,8 +15,19 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+:czech_republic:
+I am a PhD student at [Multi-Robot Systems Lab](http://mrs.felk.cvut.cz/), Czech Technical University in Prague under the supervision of [Dr. Martin Saska](http://mrs.felk.cvut.cz/people/martin-saska) and [Dr. Tiago Nascimento](http://mrs.felk.cvut.cz/members/postdocs/nascimento). I work on control, navigation, and state-estimation for Aerial vehicles operating in Marine environments in collaboration with a marine vessel. Additionally, I am also working on pushing the envelope on fast and agile flights with quadrotors.
 
-I am a PhD student at [Multi-Robot Systems Lab](http://mrs.felk.cvut.cz/), Facult of Electrical Engineering, Czech Technical University in Prague. 
+:it:
+Prior to this, I spent most of 2020 working on co-axial octarotors at [FlyingBasket SRL](https://flyingbasket.com/) in Italy where we engineered heavy-lift (160 kg TOW) aerial vehicles to deliver cargo in the mountainous regions of Südtirol.
+
+:us:
+Before this, I spent a year in Philadelphia at [Kumar Lab(GRASP)](https://www.grasp.upenn.edu/research-groups/kumar-lab/) at the University of Pennsylvania under the guidance of [Dr. David Saldaña](http://swarmslab.com/). We worked on building the world's first modular aerial system [MODQUAD]() which can reconfigure mid-air(without landing).
+
+:india:
+I was born in Sikar, Rajasthan in India and I graduated from BITS Pilani Hyderabad Campus with double majors i.e. Physics and Mechanical Engineering in an integrated dual-degree program for Bachelors and Masters(points for identifying my Masters major).
+
+
