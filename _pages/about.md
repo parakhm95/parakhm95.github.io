@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Karlovo Namesti 13, Building-E,</p>
-    <p>Czech Technical University</p>
-    <p>Prague 12000</p>
+  address: 
+  #   <p>Karlovo Namesti 13, Building-E,</p>
+  #   <p>Czech Technical University</p>
+  #   <p>Prague 12000</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -30,7 +30,6 @@ I spent a year in Philadelphia at [Kumar Lab(GRASP)](https://www.grasp.upenn.edu
 :india:  
 I was born in Sikar, Rajasthan in India and I graduated from BITS Pilani Hyderabad Campus with double majors i.e. Physics and Mechanical Engineering in an integrated dual-degree program for Bachelors and Masters(points for identifying my Masters major).
 
-:sparkle:  
-I spend a lot of my time listening to Jazz, Classical, and Electronic music in live and recorded forms. After work, you can find me at my Bouldering gym :climbing_man:.  
-I am sometimes also found in galleries and museums gawking at paintings.
+:framed_picture:  
+I spend a lot of my time listening to Jazz, Classical, and Electronic music in live and recorded forms. After work, you can find me at my bouldering gym :climbing_man:, having a beer :beer:, or cooking something at home :cook:. Also found in galleries and museums gawking at paintings.
 

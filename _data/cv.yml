@@ -1,12 +1,12 @@
-- title: General Information
+- title: Introduction
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Parakh M. Gupta
+    - name: Other Names
+      value: Parakh Manoj Gupta
     - name: Languages
-      value: English, German
+      value: Hindi, Marwari, English, Czech(A1.1)
 
 - title: Education
   type: time_table
