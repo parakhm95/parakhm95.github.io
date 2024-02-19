@@ -18,7 +18,7 @@ authors:
 ---
 
 
-I have been working on the PX4 platform since 2016, and through this many things have changed and I have seen plenty of things that should be common knowledge but they are not. Here are my collections as I learnt:
+I have been working on the PX4 platform since 2016, and through this many things have changed and I have seen plenty of things that should be common knowledge but they are not. More can be found on [MRS Website](ctu-mrs.github.io). Here are my collections as I learnt:
 
 ## Reading the logs
 
