@@ -5,7 +5,7 @@ permalink: /
 subtitle: When is serious too serious.
 
 profile:
-  align: right
+  align: left
   image: pmg.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
@@ -37,7 +37,7 @@ I am a PhD student at [Multi-Robot Systems Lab](http://mrs.felk.cvut.cz/), Czech
 I spent a year in Philadelphia at [Kumar Lab(GRASP)](https://www.grasp.upenn.edu/research-groups/kumar-lab/) at the University of Pennsylvania under the guidance of [Dr. David Saldaña](http://swarmslab.com/). We worked on building the world's first modular aerial system [ModQuad]() which can reconfigure mid-air(without landing).
 
 :india:  
-I was born in Sikar, Rajasthan in India and I graduated from BITS Pilani Hyderabad Campus with double majors i.e. Physics and Mechanical Engineering in an integrated dual-degree program for Bachelors and Masters(points for identifying my Masters major).
+I was born in Sikar, Rajasthan in India and I graduated from BITS Pilani Hyderabad Campus with double majors i.e. Physics and Mechanical Engineering in an integrated dual-degree program for Bachelors and Masters.
 
 :framed_picture:  
 I spend a lot of my time listening to Jazz, Classical, and Electronic music in live and recorded forms. After work, you can find me at my bouldering gym :climbing_man:, having a beer :beer:, or cooking something at home :cook:. Also found in galleries and museums gawking at paintings.
