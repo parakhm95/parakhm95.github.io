@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Multi-Robot Systems Lab](mrs.felk.cvut.cz) as a researcher.
+Joined [Multi-Robot Systems Lab](https://mrs.fel.cvut.cz) as a researcher.
