@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD at [Multi-Robot Systems Lab](mrs.felk.cvut.cz), Prague
+Started my PhD at [Multi-Robot Systems Lab](https://mrs.fel.cvut.cz), Prague
