@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first publication ever is live at [IEEE-RAL](https://ieeexplore.ieee.org/document/8758182)
+[Design and Control of Aerial Modules for Inflight Self-Disassembly](https://ieeexplore.ieee.org/document/8758182) is live at [IEEE-RAL](https://ieeexplore.ieee.org/document/8758182)

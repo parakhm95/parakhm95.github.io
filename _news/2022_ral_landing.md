@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper on landing UAV on a boat is published in [IEEE-RAL](https://ieeexplore.ieee.org/document/9998066)
+[Landing a UAV in Harsh Winds and Turbulent Open Waters](https://ieeexplore.ieee.org/document/9998066) is published in [IEEE-RAL](https://ieeexplore.ieee.org/document/9998066)

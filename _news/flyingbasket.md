@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started working at FlyingBasket SRL.
+Started working at [FlyingBasket SRL](https://flyingbasket.com/).
