@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[LoL-NMPC](https://doi.org/10.1109/IROS60139.2025.11246583) is published in [IEEE-RAL](https://doi.org/10.1109/IROS60139.2025.11246583)
+[LoL-NMPC](https://doi.org/10.1109/IROS60139.2025.11246583) is published in [IEEE IROS 2025](https://ieeexplore.ieee.org/xpl/conhome/11245651/proceeding)
