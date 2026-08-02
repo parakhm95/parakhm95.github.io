@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-the-fragments-of-px4-documentation",
+            },{id: "post-the-proliferation-of-science",
+      
+        title: "The proliferation of science",
+      
+      description: "The non-desperate search through another ill-documented project with good examples",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/propagating-science/";
+        
+      },
+    },{id: "post-the-fragments-of-px4-documentation",
       
         title: "The fragments of PX4 documentation",
       
@@ -128,8 +139,8 @@ ninja.data = [{
           section: "News",},{id: "news-we-team-mrsxf4f-won-3rd-place-in-drag-race-at-a2rlxdcl-autonomous-drone-racing-championship-2025-we-were-top-4-in-other-events-here-is-a-video-for-you",
           title: 'We (Team MRSxF4F) won 3rd place in drag race at A2RLxDCL Autonomous Drone...',
           description: "",
-          section: "News",},{id: "news-lol-nmpc-is-published-in-ieee-ral",
-          title: 'LoL-NMPC is published in IEEE-RAL',
+          section: "News",},{id: "news-lol-nmpc-is-published-in-ieee-iros-2025",
+          title: 'LoL-NMPC is published in IEEE IROS 2025',
           description: "",
           section: "News",},{id: "news-team-mrs-fly4future-won-the-ai-awards-read-more-here",
           title: 'Team MRS-Fly4Future won the AI Awards 🎉! Read more here.',
