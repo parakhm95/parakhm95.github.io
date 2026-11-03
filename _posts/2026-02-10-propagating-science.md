@@ -2,7 +2,7 @@
 layout: distill
 title:  The proliferation of science
 date: 2026-02-10 22:39:00
-description: The non-desperate search through another ill-documented project with good examples
+description: I am nigh the science guy
 tags: science
 categories: science
 # thumbnail: assets/img/9.jpg
