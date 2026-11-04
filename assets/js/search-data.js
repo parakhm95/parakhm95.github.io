@@ -69,7 +69,7 @@ ninja.data = [{
       
         title: "The proliferation of science",
       
-      description: "The non-desperate search through another ill-documented project with good examples",
+      description: "I am nigh the science guy",
       section: "Posts",
       handler: () => {
         
